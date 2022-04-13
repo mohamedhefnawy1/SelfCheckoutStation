@@ -1,4 +1,4 @@
-# This read me contains all the information on how to run and use the self checkout station and the attendant station softwares
+# README.md contains all the information on how to run and use the self checkout station and the attendant station softwares
 
 # Mohamed Elhefnawy: Worked on Scanning items, Starting up/shutting down station, blocking and unblocking station, Adding Reciept Paper, Adding Reciept Ink, paying with any cards, 
 
