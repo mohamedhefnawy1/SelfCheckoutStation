@@ -1,9 +1,9 @@
-# NOTE: This read me contains all the information on how to run and use the self checkout station and the attendant station softwares
+# This read me contains all the information on how to run and use the self checkout station and the attendant station softwares
 
 # Mohamed Elhefnawy: Worked on Scanning items, Starting up/shutting down station, blocking and unblocking station, Adding Reciept Paper, Adding Reciept Ink, paying with any cards, 
 
-/*
-run "demo.java" in SelfCheckoutStation\SCS - Software\src\seng300 as a java application.
+
+- run "demo.java" in SelfCheckoutStation\SCS - Software\src\seng300 as a java application.
 
 LOGIN:
 USERNAME: 87654321
@@ -12,7 +12,7 @@ PASSWORD: 12345678
 
 
 
-Attendant Station controls:
+- Attendant Station controls:
 
 -Select station and press startup to start up that station.
 
@@ -25,7 +25,7 @@ Attendant Station controls:
 
 
 
-Attendant Station Hardware functionalities:
+- Attendant Station Hardware functionalities:
 
 -Refill Coins: select a station and select refill coins (will block station for an attendant to go into the station and physically refill coins, once coins have been refilled, station will unblock).
 
@@ -42,7 +42,7 @@ Attendant Station Hardware functionalities:
 
 
 
-Customer Assistance:
+- Customer Assistance:
 
 -Lookup Product: allow attendant to look up product using a PLU Code (Price Lookup Code).
 
@@ -51,11 +51,11 @@ Customer Assistance:
 
 
 
-Self checkout station functionalities:
+- Self checkout station functionalities:
 
 -Use own bag: asks the attendant station for permission for the customer to use their own bag to bag their items
 
-- scan product: Scan products by pressing scan item followed by place item, this will scan and place a random item in your bag 
+-scan product: Scan products by pressing scan item followed by place item, this will scan and place a random item in your bag 
 
 -Enter PLU Code: Use Price Look Up codes from 00001 up to 00009 to add different items to cart.
 
@@ -68,4 +68,3 @@ Self checkout station functionalities:
 -View Bagging Area: allows customer to view items placed in bagging area.
 
 -Pay: allows you to pay for items.
-*/
