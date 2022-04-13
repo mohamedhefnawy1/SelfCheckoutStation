@@ -2,6 +2,7 @@
 
 # Mohamed Elhefnawy: Worked on Scanning items, Starting up/shutting down station, blocking and unblocking station, Adding Reciept Paper, Adding Reciept Ink, paying with any cards, 
 
+- DEMO VIDEO: https://drive.google.com/file/d/1odxotlb4QILK68kn2afNz1ft4NL6-_T_/view?usp=sharing
 
 - run "demo.java" in SelfCheckoutStation\SCS - Software\src\seng300 as a java application.
 
