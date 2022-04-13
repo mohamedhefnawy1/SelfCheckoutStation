@@ -1,1 +1,0 @@
-note that this project is still a work in progress, I am now working on completeing the logic behind the self checkout station and creating a gui to run on top of the implementation
